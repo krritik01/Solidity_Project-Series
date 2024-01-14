@@ -1,4 +1,8 @@
 # Smart Contract Series
+<p align="center">
+<img src="https://www.wallstreetmojo.com/wp-content/uploads/2021/06/Smart-Contracts.jpg" />
+</p>
+
 
 ## Overview
 Welcome to the Smart Contract Project Series. This series harnesses the power of the Solidity programming language to deploy a robust decentralized application (DApp) smart contract. The primary objective of this series is to facilitate a unique and interactive learning experience for anyone looking to understand the concept of smart contracts. By combining blockchain technology with educational methodologies, this smart contract series empowers individuals to delve into decentralized concepts, smart contract development, and blockchain fundamentals. Whether you're a novice exploring the intricacies of blockchain or a seasoned developer seeking an educational platform, this project series is designed to enlighten and foster collaborative learning within your team.
