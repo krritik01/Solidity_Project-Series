@@ -44,7 +44,7 @@ Additionally, the contract utilizes the OpenZeppelin Contracts Ethereum Package 
 - **Refund Mechanism:** In the event of an unsuccessful presale, contributors can claim a refund through the claimRefund function, emphasizing fairness and user protection.
 
 ## 🎯 Project Purpose:
-The TokenSale smart contract was created to provide a secure and transparent mechanism for conducting token sale events on the Ethereum blockchain. The project aims to empower token issuers with a customizable and feature-rich solution that ensures fairness, security, and efficiency throughout the presale and public sale phases. By leveraging proven standards like ERC-20 and incorporating additional safeguards, the TokenSale contract prioritizes a trustworthy and user-friendly experience for both token issuers and contributors.
+<div align=”center”> The TokenSale smart contract was created to provide a secure and transparent mechanism for conducting token sale events on the Ethereum blockchain. The project aims to empower token issuers with a customizable and feature-rich solution that ensures fairness, security, and efficiency throughout the presale and public sale phases. By leveraging proven standards like ERC-20 and incorporating additional safeguards, the TokenSale contract prioritizes a trustworthy and user-friendly experience for both token issuers and contributors.</div>
 
 
 ## Instructions for Reviewers:
@@ -68,4 +68,12 @@ The TokenSale smart contract was created to provide a secure and transparent mec
 ## Feedback
 
 If you have any feedback, please reach out to us at krritik0987@gmail.com
+<p align="center">
+<img src="https://img.shields.io/badge/Author-@Ritik-critical" />
+</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-kumar-0243b9260/) 
+</div>
+
 
