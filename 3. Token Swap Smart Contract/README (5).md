@@ -1,5 +1,5 @@
 # TokenSwap Smart Contract
-
+![Alt text](https://miro.medium.com/v2/resize:fit:1400/1*MqklyIEoxg3E22rccq_MQA.jpeg)
 ## Overview
 The TokenSwap smart contract facilitates the exchange of two ERC-20 tokens, Token A and Token B, at a specified exchange rate. It allows users to swap Token A for Token B and vice versa. The contract aims to provide a decentralized and transparent mechanism for token swaps with an adjustable exchange rate.
 
@@ -56,4 +56,12 @@ The TokenSwap smart contract is designed to serve as a decentralized and transpa
 ## 📩 Feedback
 
 If you have any feedback, please reach out to us at krritik0987@gmail.com
+<p align="center">
+<img src="https://img.shields.io/badge/Author-@Ritik-critical" />
+</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-kumar-0243b9260/) 
+</div>
+
 
