@@ -1,5 +1,5 @@
 # MultiSignature Wallet Smart Contract
-
+![Alt text](https://www.c-sharpcorner.com/article/creating-multisig-wallet-contract/Images/MultisignatureWallets.jpeg)
 ## Overview
 The MultiSignature smart contract facilitates secure and transparent multi-signature wallet functionality on the Ethereum blockchain. It enables multiple owners to collectively manage and approve transactions, enhancing security through a threshold of confirmations.
 
@@ -35,12 +35,12 @@ The use of a mapping `(isConfirmed)` efficiently tracks confirmation status for 
 
 - **Array Iteration for Ownership Verification:** Iteration over the array of owners is employed for ownership verification, offering a straightforward and efficient approach.
 
-- **Event Emission for Transparency:** Events are emitted for crucial actions like transaction submission, confirmation, execution, and cancellation, ensuring transparency without compromising gas efficiency.
+- **Event Emission for Transparency:** Events are emitted for crucial actions like transaction `submission`, `confirmation`, `execution`, and `cancellation`, ensuring transparency without compromising gas efficiency.
 
 ## 🎯 Project Purpose:
 The MultiSignature smart contract is designed to establish a decentralized and secure multi-signature wallet system on the Ethereum blockchain. The primary purpose is to provide a collaborative ownership structure, enabling multiple authorized parties to collectively manage and validate transactions. This project aims to enhance security and trust by requiring a predefined number of confirmations from owners before 
 
-
+![Alt text](https://bitcoinmagazine.com/.image/t_share/MTk2NzM0NDc3MTIzMjY1NTU0/how_multisig_wallets_work.png)
 ## 📝Instructions for Reviewers:
 
 - Verify the accuracy of the isOwner function in identifying whether a given address is one of the owners.
@@ -57,3 +57,10 @@ The MultiSignature smart contract is designed to establish a decentralized and s
 
 If you have any feedback, please reach out to us at krritik0987@gmail.com
 
+<p align="center">
+<img src="https://img.shields.io/badge/Author-@Ritik-critical" />
+</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-kumar-0243b9260/) 
+</div>
