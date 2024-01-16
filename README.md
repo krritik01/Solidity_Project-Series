@@ -86,6 +86,9 @@ If you have any feedback, please reach out to us at krritik0987@gmail.com
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-kumar-0243b9260/) 
 </div>
 
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
 
 
 
