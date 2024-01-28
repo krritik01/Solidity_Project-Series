@@ -69,7 +69,7 @@ The TokenSale smart contract was created to provide a secure and transparent mec
     
 ## Feedback
 
-If you have any feedback, please reach out to us at krritik0987@gmail.com
+If you have any feedback, please reach out to me at krritik0987@gmail.com
 <p align="center">
 <img src="https://img.shields.io/badge/Author-@Ritik-critical" />
 </p>
