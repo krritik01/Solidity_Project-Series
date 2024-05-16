@@ -3,7 +3,7 @@ pragma solidity ^0.8.23;
 
 
 
-contract MultiSignature {
+contract MultiSignatureWallet {
 
     address[] public owners; //This array stores the addresses of owners and these owners is the people who is controlling this smart contract
     uint public numConfirmationsRequired; // Number of confirmations required from owners to approve and execute a transaction
